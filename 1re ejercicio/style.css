@@ -1,0 +1,51 @@
+
+
+*{ 
+    margin: 20;
+    padding: 20;
+
+
+}
+
+
+.titulos{
+
+    color: aliceblue;
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.subtitulos{
+    color: rebeccapurple;
+    background-color: black;
+    text-align: center;
+
+}
+
+.imagen{
+    width: 300px;
+
+}
+
+.botones{
+    color: brown;
+    background-color: aqua;
+
+}
+
+.redes{
+    color: violet;
+    background-color: black;
+    border-radius: 10px;
+
+}
+
+.parrafo{
+    color: blue;
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}

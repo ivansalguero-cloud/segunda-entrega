@@ -1,0 +1,22 @@
+*{      /* reset - agregar siempre al principio de cada CSS */
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.parrafoDiv{
+
+    color: aliceblue;
+    text-align: center;
+
+}
+
+p{
+
+    color: aqua;
+    background-color: black;
+    width: 200px;
+
+}
